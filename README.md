@@ -92,7 +92,7 @@ Ozempic, Jardiance, and Trulicity represent a fundamental shift toward expensive
 Humira represents a unique $1.4+ billion opportunity. Unlike the other cost drivers, Humira's patent expiration creates direct biosimilar substitution possibilities with clinically equivalent but significantly cheaper alternatives now available. 
 
 
-<img src="https://github.com/reshmaanil144/Medicare-Part-D-Analysis/blob/main/Data%20Viz/30%20percent%20medicare%20new%20chart.png" width="800">
+<img src="https://github.com/chacharesarish/medicare-part-D-analysis/blob/main/Data%20Viz/30%20percent%20medicare%20new%20chart.png" width="800">
 
 ### 2. The Price-Volume Inversion Discovery
 
@@ -105,7 +105,7 @@ Humira represents a unique $1.4+ billion opportunity. Unlike the other cost driv
 * **Cost Control Priority Matrix Discovery.** Analysis revealed four distinct cost patterns requiring different intervention approaches: High Price/High Volume (step therapy priority), High Price/Low Volume (medical necessity review), Low Price/High Volume (maintain current), Low Price/Low Volume (monitor only), enabling systematic resource allocation.
 
 
-<img src="https://github.com/reshmaanil144/Medicare-Part-D-Analysis/blob/main/Data%20Viz/Cost%20control%20for%20four%20categories.png" width="800">
+<img src="https://github.com/chacharesarish/medicare-part-D-analysis/blob/main/Data%20Viz/Cost%20control%20for%20four%20categories.png" width="800">
 
 ### 3. The $543M Savings Calculation Discovery
 
@@ -118,7 +118,7 @@ Humira represents a unique $1.4+ billion opportunity. Unlike the other cost driv
 * **Mathematical Reality of Price Differentials.** Discovery that savings potential scales with price gaps rather than volume alone - because expensive drugs cost 64-100x more, even modest switching rates generate substantial financial impact regardless of conservative clinical assumptions.
 
 
-<img src="https://github.com/reshmaanil144/Medicare-Part-D-Analysis/blob/main/Data%20Viz/Projected%20annual%20savings.png" width="800">
+<img src="https://github.com/chacharesarish/medicare-part-D-analysis/blob/main/Data%20Viz/Projected%20annual%20savings.png" width="800">
 
 ### 4. Prescriber Behavior Pattern Analysis
 
@@ -131,7 +131,7 @@ Humira represents a unique $1.4+ billion opportunity. Unlike the other cost driv
 * **High-Volume Expensive-Only Pattern.** Discovery of prescribers writing large volumes of expensive drugs while completely avoiding cheaper alternatives suggests systematic utilization management bypass rather than patient-specific clinical decisions.
 
 
-<img src="https://github.com/reshmaanil144/Medicare-Part-D-Analysis/blob/main/Data%20Viz/precriber%20analysis.png" width="800">
+<img src="https://github.com/chacharesarish/medicare-part-D-analysis/blob/main/Data%20Viz/precriber%20analysis.png">
 
 # KPIs & Recommendations:
 
