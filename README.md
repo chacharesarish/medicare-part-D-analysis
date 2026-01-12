@@ -22,13 +22,13 @@ Identification of specific prescribers driving disproportionate expensive drug u
 **Performance Tracking Framework:**
 Three core metrics to monitor $543M savings progress: Generic Substitution Rate (improve blood thinner generic usage from current 18% toward category-appropriate benchmarks), Cost Concentration (reduce top-10 drug dominance from 31% to under 25%), and Provider Efficiency Scores. Monthly dashboard tracking ensures accountability and measures real progress toward cost reduction goals.
 
-The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/reshmaanil144/Medicare-Part-D-Analysis/blob/main/sql/data_cleaning.sql).
+The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/chacharesarish/medicare-part-D-analysis/blob/main/sql/data_cleaning.sql).
 
-Targeted SQL queries regarding various business questions can be found [here](https://github.com/reshmaanil144/Medicare-Part-D-Analysis/blob/main/sql/Business%20Question%20Analysis%20Queries).
+Targeted SQL queries regarding various business questions can be found [here](https://github.com/chacharesarish/medicare-part-D-analysis/blob/main/sql/Business%20Question%20Analysis%20Queries).
 
 KPI tracking and performance monitoring queries can be found [here](https://github.com/reshmaanil144/Medicare-Part-D-Analysis/blob/main/sql/KPI%20Tracking%20Queries).
 
-Outlier investigation methodology queries can be found [here](https://github.com/reshmaanil144/Medicare-Part-D-Analysis/blob/main/sql/Outlier%20Investigation%20Queries).
+Outlier investigation methodology queries can be found [here](https://github.com/chacharesarish/medicare-part-D-analysis/blob/main/sql/KPI%20Tracking%20Queries).
 
 
 
@@ -37,7 +37,7 @@ Outlier investigation methodology queries can be found [here](https://github.com
 
 The Medicare Part D prescriber database consists of one main table: **Medicare_PartD**, containing **1,000,000+** prescription records across all US states and territories with **22 fields** covering prescriber information, drug details, volume metrics, and cost data.
 
-![Medicare Part D Database Schema](https://github.com/reshmaanil144/Medicare-Part-D-Analysis/blob/main/image.png)
+![Medicare Part D Database Schema](https://github.com/chacharesarish/medicare-part-D-analysis/blob/main/image.png)
 
 Prior to beginning the analysis, comprehensive quality control checks were conducted to ensure data integrity and gain familiarity with the dataset structure. These checks validated data completeness, identified potential outliers, and confirmed the dataset's suitability for utilization management analysis.
 
@@ -47,7 +47,7 @@ Prior to beginning the analysis, comprehensive quality control checks were condu
 - **Volume Metrics:** Prescription counts and patient populations
 - **Cost Data:** Total drug costs and per-prescription pricing
 
-The SQL queries used to inspect and perform quality checks can be found [here](https://github.com/reshmaanil144/Medicare-Part-D-Analysis/blob/main/sql/data_cleaning.sql).
+The SQL queries used to inspect and perform quality checks can be found [here](https://github.com/chacharesarish/medicare-part-D-analysis/blob/main/sql/data_cleaning.sql).
 
 
 
