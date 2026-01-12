@@ -7,15 +7,6 @@ Medicare Part D provides prescription drug coverage to over 48 million Americans
 
 This project uses the 2023 public dataset, which includes **1 million prescription records** as a representative sample. The analysis demonstrates a systematic, data driven methodology to uncover utilization management gaps and identify potential savings. Approaches such as detecting cost concentration patterns, pricing variations, and prescribing behavior are showcased, methods that insurers can replicate using internal claims data to support cost containment efforts.
 
-## Project Demo
-
-Click here to watch the full analysis walkthrough:
-
-<a href="https://www.loom.com/share/fa3738a96fdf4e1aa2ea8d96738148e1">
-  <img src="https://cdn.loom.com/sessions/thumbnails/fa3738a96fdf4e1aa2ea8d96738148e1-466a7a6ecf4f782d-full-play.gif" alt="Medicare Part D Analysis Demo" width="400">
-</a>
-<br>
-<br>
 
 **Insights and recommendations are provided on the following key areas:**
 
